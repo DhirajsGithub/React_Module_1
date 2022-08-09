@@ -26,4 +26,7 @@
 
 * using && operator to disaply overlays or other compoenet which are to be display for specific state 
 
-* wrapping our self made Components withing our self made compoenet using props.children built in passes children
+* wrapping our self made Components withing our self made compoenet using props.children built in passes children as props
+
+## Math.max(...NumArray);  --> gives the max number in an array of numbers
+### Components with useState are smart Component or stateful component, without useState they are stateless component

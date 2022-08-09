@@ -7,7 +7,7 @@ const ExpenseForm = (props) => {
   const [enteredAmount, setEnteredAmount] = useState('');
   const [enteredDate, setEnteredDate] = useState('');
  // we can use multiple use state or can use object of useState as:
-  // but methods are fine depend on dev to dev to use it
+  // both methods are fine depend on dev to dev to use it
 
   // const [userInput, setUserInput] = useState({
   //     enteredTitle:'',
